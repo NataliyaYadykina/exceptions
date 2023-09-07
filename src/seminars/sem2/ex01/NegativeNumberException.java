@@ -1,4 +1,4 @@
-package seminars.sem2;
+package seminars.sem2.ex01;
 
 public class NegativeNumberException extends Exception {
 
