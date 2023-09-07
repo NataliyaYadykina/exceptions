@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd04e057-dfe8-4571-b489-c5cca03deb77" name="Changes" comment="" />
+    <list default="true" id="bd04e057-dfe8-4571-b489-c5cca03deb77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/hw1/Printer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/hw1/Printer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/hw1/Printer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/hw2/ex01/InvalidNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/hw2/ex01/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/hw2/ex02/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/hw2/ex02/DivisionByZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/hw3/DivisionByZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/hw3/NumberOutOfRangeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/hw3/NumberSumException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/hw3/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem1/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem1/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem1/SimpleDivisionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem2/ex01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem2/ex01/DivisionByZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem2/ex01/NegativeNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem2/ex02/CustomCheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem2/ex02/CustomUncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem2/ex02/ExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem2/ex03/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem2/ex03/DivisionByZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem2/ex03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem2/ex04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem2/ex04/MultiplicationByZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/sem2/ex04/NegativeNumbersException.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,12 +55,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -1,4 +1,4 @@
-package homework.hw3;
+package homework.hw2.ex03;
 
 public class DivisionByZeroException extends Exception {
 
